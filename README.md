@@ -10,5 +10,7 @@
 
 ##### 						Módulo II/V: HTML/CSS3/JS
 
-1. Introdução a criação de websites dom HTML e CSS3.
-2. 
+1. Introdução a criação de websites dom HTML5 e CSS3.
+2. Posicionando elementos com Flexbox em CSS.
+3. Recriando a página inicial do Instagram.
+4. 
